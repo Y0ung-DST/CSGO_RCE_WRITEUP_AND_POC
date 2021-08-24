@@ -381,19 +381,6 @@ Researchers again.
 
 https://www.youtube.com/watch?v=BIFtK6Sd6SY&t=72s&ab_channel=Chris
 
-[Time Table]
-===================================================================================
-
-  Date (DD/MM/YYYY)   What
-  ------------------- ----------------------------------------------------------------
-  04.01.2021          Reported both bugs in one report to Valve’s bug bounty program
-  11.01.2021          A HackerOne triager verifies the bug and triages it
-  10.02.2021          First follow-up, no response from Valve
-  23.02.2021          Second follow-Up, no response from Valve
-  10.04.2021          Disclosure of Bug existance via twitter
-  15.04.2021          Third follow-up, no response from Valve
-  28.04.2021          Valve patches both bugs
-
 [Breaking ASLR]
 -----------------------------------------------------------------------------------------
 
