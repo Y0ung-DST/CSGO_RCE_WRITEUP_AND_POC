@@ -1,8 +1,6 @@
 Counter-Strike Global Offsets: Reliable Remote Code Execution
 =============================================================
 
-May 13, 2021
-
 * * * * *
 
 One of the factors contributing to Counter-Strike Global Offensive’s
@@ -363,18 +361,6 @@ to us calling `ShellExecuteA` to
 execute arbitrary system commands.
 
 ![](https://media.discordapp.net/attachments/635278809741918218/879754592882151454/unknown.png)
-
-[Conclusion]
-===================================================================================
-
-We submitted both bugs in one report to Valve’s HackerOne program, along
-with the exploit we developed that proved 100% reliablity.
-Unfortunately, in over 4 months, we did not even receive an
-acknowledgment by a Valve representative. After public pressure, when it
-became apparent that Valve had also ignored other Security Researchers
-with similar impact, Valve finally fixed numerous security issues. We
-hope that Valve re-structures its Bug Bounty program to attract Security
-Researchers again.
 
 [Poc]
 ===================================================================================
