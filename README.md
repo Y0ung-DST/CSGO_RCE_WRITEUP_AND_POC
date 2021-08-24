@@ -365,7 +365,7 @@ execute arbitrary system commands.
 [Poc]
 ===================================================================================
 
-https://www.youtube.com/watch?v=BIFtK6Sd6SY&t=72s&ab_channel=Chris
+https://www.youtube.com/watch?v=rNQn--9xR1Q&ab_channel=SecretClub
 
 [Breaking ASLR]
 -----------------------------------------------------------------------------------------
