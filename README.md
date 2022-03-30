@@ -444,4 +444,4 @@ for i in range(len(data) - 0x54):
         print(f"vtable_ptr={hex(vtable_ptr)}")
         break
 ```
-https://secret.club/2021/05/13/source-engine-rce-join.html
+original writeup : https://secret.club/2021/05/13/source-engine-rce-join.html
